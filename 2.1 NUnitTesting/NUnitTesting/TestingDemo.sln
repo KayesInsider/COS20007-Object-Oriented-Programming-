@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestingDemo", "TestingDemo\TestingDemo.csproj", "{081B30F5-AE06-4CDB-B123-C86F7434ECBE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NunitTests", "NunitTests\NunitTests.csproj", "{70FDA43C-F500-40C6-A37D-D2E7E1FD4138}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{081B30F5-AE06-4CDB-B123-C86F7434ECBE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{081B30F5-AE06-4CDB-B123-C86F7434ECBE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{081B30F5-AE06-4CDB-B123-C86F7434ECBE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{081B30F5-AE06-4CDB-B123-C86F7434ECBE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{70FDA43C-F500-40C6-A37D-D2E7E1FD4138}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{70FDA43C-F500-40C6-A37D-D2E7E1FD4138}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{70FDA43C-F500-40C6-A37D-D2E7E1FD4138}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{70FDA43C-F500-40C6-A37D-D2E7E1FD4138}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DCBD4F3B-29B8-47AE-93D7-A9A3CBCF292B}
+	EndGlobalSection
+EndGlobal
